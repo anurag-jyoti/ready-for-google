@@ -1,6 +1,10 @@
 # ---GRIND-TO-GLORY---
 ## "Successful was a man, who showed up everyday."
 
+### 2/06/2025
+    -Started creating the resume.
+    -Started Generic Trees from DSA Course.
+
 ### 1/06/2025
     -Deployed Podium AI over the internet.
     -Completed Queues from DSA Course
