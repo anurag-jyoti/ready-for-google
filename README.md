@@ -1,6 +1,10 @@
 # ---GRIND-TO-GLORY---
 ## "Successful was a man, who showed up everyday."
 
+### 3/06/2025
+    -Didn't do much.
+    -Just collected the courses to study.
+
 ### 2/06/2025
     -Started creating the resume.
     -Started Generic Trees from DSA Course.
